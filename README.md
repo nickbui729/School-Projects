@@ -1,4 +1,4 @@
-# School-Projects
+# Projects 
 
 matrix.sh is a bash shell script exploring the basic functions of the Unix operating system. The script focuses primarily on 
 string manipulation and various bash functions.
