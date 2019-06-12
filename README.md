@@ -1,4 +1,5 @@
 # Projects 
+backend folder contains a full-stack database backed web application that I worked on during my last quarter. The website utilizes the Python Django web framework.
 
 matrix.sh is a bash shell script exploring the basic functions of the Unix operating system. The script focuses primarily on 
 string manipulation and various bash functions.
@@ -8,3 +9,5 @@ various server and client calls. This project focused on using the send/recieve 
 
 smallsh.sh is a shell script that runs a basic operating system. This operating system mimics the basic function calls of the Unix
 operating system. This small shell has calls to execute programs, run them in the background, write to files, etc. 
+
+
