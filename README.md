@@ -11,4 +11,4 @@ various server and client calls. This project focused on using the send/recieve 
 
 "Pokemon Database" is a database project for my intro to databases course. It uses php and MySQL as the primary tools.
 
-"Stephen Curry Website" was my first experience with HTML/CSS. I have improved a lot since then, but its nice to see older projects. 
+ 
