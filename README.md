@@ -1,4 +1,7 @@
 # Projects 
+"ReactJs Burger Builder" is a single page, fully dynamic application that allows a user to order and customize their own burgers. This project utilized basic React concepts and modern ES6 features. The app also uses Axios to handle all of the API and AJAX requests with my Firebase backend.
+Demo URL: https://react-burger-project-ec804.firebaseapp.com/
+
 "Full-stack Web Application (Capstone Web Project)" contains a full-stack database backed web application that I worked on during my last quarter at Oregon State University. The website utilizes the Python Django web framework along with its database migration functionality.
 
 "Bash Project" is a bash shell script exploring the basic functions of the Unix operating system. The script focuses primarily on 
